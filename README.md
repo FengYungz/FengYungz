@@ -9,7 +9,7 @@
 
 - 😄 Entusiasta em  desenvolver soluções com tecnologia em programação!
 
-- ⚡ "O aprendizado é contínuo e sempre haverá um próximo nível." - @Rocketseat.
+- ⚡ "Learning is continuous and there will always be a next level." - @Rocketseat.
 
 <p align="center">
 <a href="https://twitter.com/lucasfeng83" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucasfeng" height="20" width="20" /></a>
