@@ -9,6 +9,8 @@
 
 - 😄 Entusiasta em  desenvolver soluções com tecnologia em programação!
 
+- 📫 How to reach me **lucasfeng@usp.br**
+
 - ⚡ "Learning is continuous and there will always be a next level." - @Rocketseat.
 
 <p align="center">
