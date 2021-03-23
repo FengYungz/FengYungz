@@ -7,7 +7,7 @@
 
 - 💬 I am interested in always learning more about the world of programming, and improving new technologies.
 
-- 😄 Enthusiastic about developing solutions with programming technology!
+- 😄 Enthusiast about developing solutions with programming technology!
 
 - 📫 How to reach me **lucasfeng@usp.br**
 
