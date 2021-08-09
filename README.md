@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Poli Júnior](https://polijunior.com.br/)
 
-- 👨‍💻 Trainee na @polijr
+- 👨‍💻 Business Analyst in @polijr
 
 - 💬 I am interested in always learning more about the world of programming, and improving new technologies.
 
