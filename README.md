@@ -1,9 +1,9 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Feng</h1>
 <h3 align="center">A computer engineering student at the Polytechnic School of USP</h3>
 
-- 🔭 I’m currently working on [Poli Júnior](https://polijunior.com.br/)
+- 🔭 I’m currently working on [BTG Pactual](https://www.btgpactual.com/)
 
-- 👨‍💻 Business Analyst in @polijr
+- 👨‍💻 Back-End Developer @BTGPactual
 
 - 💬 I am interested in always learning more about the world of programming, and improving new technologies.
 
